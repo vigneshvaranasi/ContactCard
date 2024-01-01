@@ -169,6 +169,12 @@ body {
 .social-icons a.snapchat:hover span {
   background: #fffc00;
 }
+.social-icons a.coding:hover span {
+  background: #ff920a;
+}
+.social-icons a.coding:hover {
+  color: #ffffff;
+}
 
 .social-icons a.github:hover {
   color: #fff;
